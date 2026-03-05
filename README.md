@@ -3,7 +3,7 @@ pedrodris/pedrodris is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm pedro</h1>
-<h3 align="center">A passionate back-end developer from Brasil</h3>
+<h3 align="center">A passionate Computer Science student from Brasil</h3>
 
 - 🌱 I’m currently learning **game development**
 
